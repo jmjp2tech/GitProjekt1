@@ -11,6 +11,7 @@ namespace GitProjekt1
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to GIT hub !");
+            Console.ReadKey();
         }
     }
 }
